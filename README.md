@@ -10,7 +10,7 @@ El encriptador permite ingresar un texto y devuelve una versión encriptada util
 
 Para probar el encriptador de texto, visita el siguiente enlace:
 
-[https://encriptador-liard.vercel.app/](https://encriptador-liard.vercel.app/)
+[[https://encriptador-liard.vercel.app/](https://encriptador-liard.vercel.app/)](https://encriptador-eight-sage.vercel.app/)
 
 ## Autor
 
