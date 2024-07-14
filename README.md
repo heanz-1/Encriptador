@@ -16,3 +16,6 @@ Para probar el encriptador de texto, visita el siguiente enlace:
 
 Este proyecto fue desarrollado por Piero Linares como parte de AluraLatam y OracleNextEducation.
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@alexlinare3814178/30-nites-of-code)  
+  ![@alexlinare3814178 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=alexlinare3814178)
